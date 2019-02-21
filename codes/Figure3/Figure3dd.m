@@ -33,9 +33,10 @@ X = [ones(m, 1) T];
 theta1 = (pinv(X'*X))*X'*Gl;
 %============================================================
 
-
+A4 = zeros(300,2,10);
+for dg = 1:10;
+dg
 countp = 0;%For plotting each dg simulation
-
 for t = 1:10000;%Number replicates
   
   %large inds
@@ -56,8 +57,8 @@ for t = 1:10000;%Number replicates
 %=======================================================
 
 %Initial carrying capacity and differential growth====
-Pmax =  10000;
-dg = 1.5;
+Pmax =  1000;
+%dg = 1.5;
 %=====================================================
 
   migrationyes = [];
@@ -89,6 +90,11 @@ if ~isempty(migrationyes);
 %set(gca,'XTick',[],'YTick',[])
 %xlabel('Day','fontsize', 16)
 %ylabel('P/G','fontsize', 16)
+
+%Plotting
+%red=1; green=0; blue=0.8;
+plot([0 1],[0 1],'color',[red green blue])
+
 %====================================================================
 
  migrationyes_small = [];
@@ -131,15 +137,15 @@ MYS = migrationyes_small(1,1);
 diffM = MYS - MYL;
 diffD = mean(S(:,6)) - mean(L(:,6));
  
-       if diffM > 20 && diffM <40;
+       if diffM > 20 && diffM < 40;
 diffM;
 diffD;
 countp = countp + 1;
 %pause 
 Glake = theta1(2,1)*B(migrationyes(1,1),4);
 Gs = theta1(2,1)*B(migrationyes(1,1),5);
-A4(countp,1) = Pss/Gs;
-A4(countp,2) = Plake/(dg*Glake);
+A4(countp,1,dg) = Pss/Gs;
+A4(countp,2,dg) = Plake/(dg*Glake);
      end
     end% migra...
 
@@ -147,5 +153,6 @@ end%migra small...
 end%migrationyes...
 
 end%t
+end%dg
 
 
