@@ -6,7 +6,7 @@ X = [1 2 3 4 5 6 7 8 9 10];
 data=dataframe("dg1.csv");
 red=0.1; green=0.1; blue=0.2;
 dg11 = size(data(:, 'X2'));
-plot(X(1,1),dg11(1,1),'k.','color',[red green blue],'Markersize',14)
+plot(X(1,1),dg11(1,1),'k.','color',[red green blue],'Markersize',28)
 
 hold on
 
@@ -14,7 +14,7 @@ hold on
 data=dataframe("dg2.csv");
 red=1; green=0.1; blue=0.3;
 dg12 = size(data(:, 'X2'));
-plot(X(1,2),dg12(1,1),'k.','color',[red green blue],'Markersize',36)
+plot(X(1,2),dg12(1,1),'k.','color',[red green blue],'Markersize',38)
 
 hold on
 
@@ -22,13 +22,13 @@ hold on
 data=dataframe("dg3.csv");
 red=0.9; green=0.2; blue=0.4;
 dg13 = size(data(:, 'X2'));
-plot(X(1,3),dg13(1,1)+18,'k.','color',[red green blue],'Markersize',28)
+plot(X(1,3),dg13(1,1),'k.','color',[red green blue],'Markersize',50)
 
 %dg4
 data=dataframe("dg4.csv");
 red=0.3; green=0.3; blue=0.5;
 dg14 = size(data(:, 'X2'));
-plot(X(1,4),dg14(1,1),'k.','color',[red green blue],'Markersize',24)
+plot(X(1,4),dg14(1,1),'k.','color',[red green blue],'Markersize',38)
 
 hold on
 
@@ -36,7 +36,7 @@ hold on
 data=dataframe("dg5.csv");
 red=0.2; green=0.4; blue=0.6;
 dg15 = size(data(:, 'X2'));
-plot(X(1,5),dg15(1,1),'k.','color',[red green blue],'Markersize',20)
+plot(X(1,5),dg15(1,1),'k.','color',[red green blue],'Markersize',34)
 
 hold on
 
@@ -44,7 +44,7 @@ hold on
 data=dataframe("dg6.csv");
 red=0.1; green=0.5; blue=0.7;
 dg16 = size(data(:, 'X2'));
-plot(X(1,6),dg16(1,1),'k.','color',[red green blue],'Markersize',18)
+plot(X(1,6),dg16(1,1),'k.','color',[red green blue],'Markersize',26)
 
 hold on
 
@@ -52,7 +52,7 @@ hold on
 data=dataframe("dg7.csv");
 red=0.1; green=0.6; blue=0.8;
 dg17 = size(data(:, 'X2'));
-plot(X(1,7),dg17(1,1),'k.','color',[red green blue],'Markersize',16)
+plot(X(1,7),dg17(1,1),'k.','color',[red green blue],'Markersize',24)
 
 hold on
 
@@ -60,7 +60,7 @@ hold on
 data=dataframe("dg8.csv");
 red=0.1; green=0.7; blue=0.9;
 dg18 = size(data(:, 'X2'));
-plot(X(1,8),dg18(1,1),'k.','color',[red green blue],'Markersize',14)
+plot(X(1,8),dg18(1,1),'k.','color',[red green blue],'Markersize',22)
 
 hold on
 
@@ -68,7 +68,7 @@ hold on
 data=dataframe("dg9.csv");
 red=0.1; green=0.8; blue=1;
 dg19 = size(data(:, 'X2'));
-plot(X(1,9),dg19(1,1),'k.','color',[red green blue],'Markersize',12)
+plot(X(1,9),dg19(1,1),'k.','color',[red green blue],'Markersize',20)
 
 hold on
 
@@ -76,11 +76,12 @@ hold on
 data=dataframe("dg10.csv");
 red=0.1; green=0.9; blue=1;
 dg110 = size(data(:, 'X2'));
-plot(X(1,10),dg110(1,1),'k.','color',[red green blue],'Markersize',14)
+plot(X(1,10),dg110(1,1),'k.','color',[red green blue],'Markersize',18)
 
-set(gca,'FontSize',20)
+set(gca,'FontSize',26)
+set(gca, 'LineWidth', 2)
 xlabel('\Delta G(M)','fontsize',22)
 ylabel('Number of predicted values','fontsize',22)
 
 
-print -color Figure3a.eps
+print -color Figure3a.pdf
