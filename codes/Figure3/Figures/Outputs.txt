@@ -1,8 +1,0 @@
-10 green 16
-8 green 25
-5 green 73
-4 magenta 85
-3 blue 122
-2 red 98
-1.5 black 76
-1 black 19
