@@ -1,0 +1,41 @@
+- Original message --------
+From: The American Naturalist <em@editorialmanager.com>
+Date: 5/9/19 23:05 (GMT+01:00)
+To: "Dermond, Philip" <Philip.Dermond@eawag.ch>
+Subject: Decision on Manuscript 59192
+ 
+MS #59192
+
+Dear Mr. Dermond:
+
+
+The Editorial Board of The American Naturalist has reached a decision regarding your article, "Size-dependent tradeoffs in seasonal environments." As a matter of journal editorial policy, one or more members of the Editorial Board review each manuscript and decide about its potential interest to readers of The American Naturalist. If in our opinion the manuscript does not meet the needs of our journal, we decline it without sending it out for external peer-review. Unfortunately, your paper falls into this category. I realize that you will find this outcome disappointing, but I hope that the comments from myself and the Associate Editor will clarify the reasons for this decision, and will be useful to you in considering the next step for this manuscript.
+
+One of our Associate Editors, Richard Svanbäck, and I have read your manuscript; Dr. Svanbäck's comments, with which I am in full agreement, are pasted below.
+
+Variation in the timing of migration presents interesting questions, and I appreciate your effort to address these questions using a combination of modeling and empirical analysis. However, I agree with Dr. Svanbäck that your paper is not suitable for Am Nat, and unlikely to do well in peer review for this journal. As Dr. Svanbäck notes (and you acknowledge in your Introduction), a great deal has already been written on the timing of migration, and previous authors have considered the role of trade-offs in this context. While your study will undoubtedly make a valuable contribution to the literature on trout migration, the conceptual novelty of your contribution is therefore not entirely clear. I also agree with Dr. Svanbäck that the empirical pattern that you report—earlier migration of larger fish—could have other explanations. Larger individuals tend to be more mature, and therefore tend to do many things earlier than smaller individuals.
+
+This decision is not, I emphasize, due to intrinsic weakness in your paper. Rather, it is related to features that make it less appropriate for this journal. Our policy in cases like this one, where there is a good paper that is better suited for a journal other than our own, is to return it as quickly as possible to the authors so that it may more rapidly be considered elsewhere.
+
+As a result, I cannot accept your manuscript for publication in The American Naturalist. Because of space limitations, we can accept only ~20% of submissions. We must emphasize the goals of The American Naturalist: to publish papers that are of broad interest to the readership, to pose a new and significant problem or introduce a novel subject to the readership, to develop conceptual unification, and to change the way people think about the topic of the manuscript. Unfortunately, this means that we must decline many good manuscripts that are worthy of scientific publication. Declined manuscripts are not eligible for resubmission in a revised form. Thank you, however, for thinking of The American Naturalist as an outlet for your work, and best wishes with your future research.
+
+Sincerely,
+
+Russell Bonduriansky
+Editor, The American Naturalist
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Associate Editor Dr. Richard Svanbäck 's Recommendation
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Dear Russell,
+
+I have carefully gone through this manuscript a couple of times and unfortunately decided not to send this manuscript out on review because in the current version I have a hard time to see that it will be supported by reviewers. The major reasons for this are first that I am not convinced about the novelty of the study/findings. Habitat choice and thus migration between habitats have extensively been studied in the framework of trade-offs between mortality and growth over ontogeny (size). The concept and theory were developed in Earl Werner’s lab in the beginning of the 1980s resulting in a number of highly cited publications, where many of them were empirical studies. A review by Werner and Gilliam in Annual review (cited in the manuscript) has to date received 2198 citations indicating the extent to which this topic has been studied. In the theoretical part of the current study, I have a hard time to see how the model formulations extend the theory of Werner and coworkers.
+It is actually mentioned (lines 130-131) that predation pressure and growth is temperature dependent and that they will evaluate size dependent trade-offs in seasonal environments. Much of this is already included in the early theory and I could not find any description in the current manuscript on how they would implement this temperature dependence. My second concern and reason for not sending this on review is that while the empirical part only evaluate the predictions from the model, it does not evaluate the assumption (i.e. the trade-offs). Thus, there might be other reasons leading to the differences of timing in migration across the sizes. Finally, I think that the model description and what was done with the model, could be described in more depth/detail. As mentioned before, how was temperature and season implemented in the model, and especially what parameter values were used for these in the model (e.g. for producing figs 2 and 3)
+
+Richard Svanbäck
+Associate Editor
+
+
+
