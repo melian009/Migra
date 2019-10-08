@@ -93,7 +93,7 @@ if ~isempty(migrationyes);
 
 %Plotting
 %red=1; green=0; blue=0.8;
-plot([0 1],[0 1],'color',[red green blue])
+%plot([0 1],[0 1],'color',[red green blue])
 
 %====================================================================
 
@@ -136,14 +136,23 @@ MYS = migrationyes_small(1,1);
 
 diffM = MYS - MYL;
 diffD = mean(S(:,6)) - mean(L(:,6));
- 
+
        if diffM > 20 && diffM < 40;
 diffM;
 diffD;
+Pss/Gs;
+Plake/(dg*Glake);
+
+
 countp = countp + 1;
 %pause 
-Glake = theta1(2,1)*B(migrationyes(1,1),4);
-Gs = theta1(2,1)*B(migrationyes(1,1),5);
+%Glake = theta1(2,1)*B(migrationyes(1,1),4)
+%Gs = theta1(2,1)*B(migrationyes(1,1),5)
+
+%Pss/Gs
+%Plake/(dg*Glake)
+
+
 A4(countp,1,dg) = Pss/Gs;
 A4(countp,2,dg) = Plake/(dg*Glake);
      end

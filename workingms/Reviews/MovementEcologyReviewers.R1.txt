@@ -1,0 +1,278 @@
+From: em.move.0.664a2e.658a879c@editorialmanager.com [mailto:em.move.0.664a2e.658a879c@editorialmanager.com] On Behalf Of Movement Ecology Editorial Office
+Sent: Montag, 30. September 2019 23:12
+To: Dermond, Philip
+Subject: Your submission to Movement Ecology - MOVE-D-19-00069
+
+CC: luca.giuggioli@bristol.ac.uk, ran.nathan@mail.huji.ac.il
+
+MOVE-D-19-00069
+Size-dependent tradeoffs in seasonal environments facilitate differential migration
+Philip Dermond; Carlos J. Melián; Jakob Brodersen
+Movement Ecology
+
+Dear Mr. Dermond,
+
+Your manuscript "Size-dependent tradeoffs in seasonal environments facilitate differential migration" (MOVE-D-19-00069) has been assessed by our reviewers. Although it is of interest, we are unable to consider it for publication in its current form. The reviewers have raised a number of points which we believe would improve the manuscript and may allow a revised version to be published in Movement Ecology.
+
+Their reports, together with any other comments, are below. Please also take a moment to check our website at https://www.editorialmanager.com/move/ for any additional comments that were saved as attachments.
+
+If you are able to fully address these points, we would encourage you to submit a revised manuscript to Movement Ecology. Once you have made the necessary corrections, please submit online at:
+
+https://www.editorialmanager.com/move/
+
+Your username is: philip.dermond
+If you forgot your password, you can click the 'Send Login Details' link on the EM Login page at https://www.editorialmanager.com/move/.
+
+Please include a point-by-point response within the 'Response to Reviewers' box in the submission system and highlight (with 'tracked changes'/coloured/underlines/highlighted text) all changes made when revising the manuscript. Please ensure you describe additional experiments that were carried out and include a detailed rebuttal of any criticisms or requested revisions that you disagreed with. Please also ensure that your revised manuscript conforms to the journal style, which can be found in the Submission Guidelines on the journal homepage.
+
+The due date for submitting the revised version of your article is 20 Oct 2019.
+
+Please note, if your manuscript is accepted you will not be able to make any changes to the authors, or order of authors, of your manuscript once the editor has accepted your manuscript for publication. If you wish to make any changes to authorship before you resubmit your revisions, please reply to this email and ask for a 'Request for change in authorship' form which should be completed by all authors (including those to be removed) and returned to this email address. Please ensure that any changes in authorship fulfil the criteria for authorship as outlined in BioMed Central's editorial policies (http://www.biomedcentral.com/about/editorialpolicies#authorship).
+
+Once you have completed and returned the form, your request will be considered and you will be advised whether the requested changes will be allowed.
+By resubmitting your manuscript you confirm that all author details on the revised version are correct, that all authors have agreed to authorship and order of authorship for this manuscript and that all authors have the appropriate permissions and rights to the reported data.
+
+Please be aware that we may investigate, or ask your institute to investigate, any unauthorised attempts to change authorship or discrepancies in authorship between the submitted and revised versions of your manuscript.
+
+I look forward to receiving your revised manuscript soon.
+
+Best wishes,
+
+Luca Giuggioli
+Movement Ecology
+https://movementecologyjournal.biomedcentral.com/
+
+Reviewer reports:
+
+Based on the Reviewer’s comments and my own reading, I would suggest the authors revise the model description carefully and much of the information needed is not presented in the manuscript. This will include a better description of the equations, as the manuscript needs to stand alone. The Reviewers provide many detailed comments that should be carefully addressed, especially re. validation, detection, and the point re. the merit of this paper for freshwater systems. With that note, I agree the title should be more specific and include “differential salmonid migration”.
+
+Reviewer #1: General comments: 
+
+This manuscript deals with size-dependent migration timing of trout from their natal habitats to the feeding environment. The authors first introduce a theoretical model predicting that larger trout initiate migration earlier than their smaller conspecifics based on a predation-growth tradeoff: larger trout are assumed to have lower predation risk in the migratory habitat and therefore migrate earlier, while smaller trout migrate later in the season as growth opportunities increase and outweigh predation risk. The authors then compare the model predictions with empirical migration data obtained from 12 streams draining into a large pre-alpine lake, serving as the main feeding habitat. The empirical data also suggest that larger trout migrate sooner than smaller individuals, though there seems to be quite some variation in the data (R2 = 0.23; Fig. 4.). However, as also recognized by the authors, this relationship has been reported in several previous studies on salmonids,
+and the novelty of this result is therefore rather limited. Predation risk and growth opportunities have also been proposed as causative factors for this pattern in previous investigations. Hence, the novelty of this manuscript is not as high as the authors are trying to state, despite the introduction of the theoretical model. Moreover, the possible underlying factors of the observed size-dependent migration timing are not further explored in the field. Hence, while it is possible that this pattern is driven by a tradeoff between growth and predation risk, there is no "real" field data to back up this possibility. In other words, I would like to see more empirical evidence supporting the conclusions drawn from the theoretical model. For instance, is there any evidence of size-specific predation in the lake and tributaries, confirming lower predation risk among larger trout? Migration onset has also been shown to be influenced by a range of environmental factors such as
+water discharge, photoperiod and water temperature. Can it be ruled out that large and small trout display different temperature thresholds that initiate migration? Is the physiological status comparable among large and small individuals etc…? 
+
+Detection efficiency as well as operational time of the PIT antennas should be included in the manuscript or supplementary material, although tag detection probability is unlikely to be influenced by fish size. In addition, what was the distance between the antenna arrays and the lake? Some arrays were placed upstream from the confluence with a major tributary due to technical constraints associated with PIT telemetry. In these instances, how do you know that the trout really entered the lake and not stayed in the lower reaches of the stream as residents (i.e., between the lake and the PIT arrays)? Were the lower reaches resampled after the migration period?   
+
+Minor comments:
+
+Lines 221-223: Did you run all three models or just one (i.e., date  size + river + year).
+
+Scientific name of trout is missing.
+
+Positions of the PIT arrays could be added to the study map.
+
+Figure 4: You could use different colored dots for the three study years.
+
+Table S1: Add variation (e.g., +/-SD) to the associated mean values for the average daily growth. It could also be tested statistically whether growth differ between migratory and resident trout.
+
+Did body size influence migration probability?  
+
+
+
+Reviewer #2: Interesting study. I suggest in future you pursue more investigations of why non-breeding salmonids may migrate seasonally. Understanding the evolutionary drivers for this would be of general interest.
+
+
+Reviewer #3: Overall:
+The researcher's main objective are to predict differential size-specific time of migration in a seasonally changing environment.  The researchers did a good job of using a conceptual model, along with empirical data, to indicate that individual migrations can occur at various timing, based on tradeoffs between growth (i.e. size) and predation rates.  These conclusions fit well for this freshwater system and I do agree that more research is required do disentangle individual requirements within differential migration.  I can conceive that these concept postulated here could possibly hold true across other systems and between other taxa, however, I am not convinced solely from this study.  Intraspecific competition is an important consideration and nutrient availability both in biomass and type could play factors here for this specific system.  In addition, the authors note that the migration in this system is quite short and in other migration types (via air, land or
+oceanic) many other factors can come into play.  I believe this paper has merit for freshwater systems and as such, at the least, this sentiment should be added into the title and abstract.  In addition, other issues that were raised after reviewing the manuscript are addressed specifically below. I have provided comments and edits to hopefully help the authors in revision to make the manuscript more readable for those of us whom work with other taxa and systems. 
+
+Abstract:
+-Line 20: add '…habitat quality and abiotic conditions'
+-Line 23: delete 'that'
+-Line 32: Hope it is explained how you measured 'slightly more favorable'.
+-Lines 33-35: Are these a priori models that were then validated with three years of data?
+-Line 34-35: What about migrations from feeding habitat back to natal.  Do the same results hold?
+-Line 37: Intraspecific competition?
+-Line 47: Change 'has failed to identify' to alternative language. One possibility would be 'which was previously understood from previous work on salmonid migration,"
+-Lines 46-49: This is a run-on sentence. Please edit.
+
+Background:
+-Line 53: Add to read '…movement tactic…'
+-Line 56: Edit to read '…migrant individuals…'
+-Line 60: What about memorization and/or cognitive learning? This is also a key component. See Jesmer et al. 2018 Science
+-Line 66: Demography (sex, age (i.e., experience)). Did you consider switching movement tactics by individuals?  Not sure if all individuals migrate in salmonids? 
+-Line 84: State-specific tradeoffs - can you provide more details as to what exact 'state-specific' you mean to address?
+-Line 87: Again demography and cognitive learning should be considered and there is literature in mammalian migrations to support this.
+-Line 94: delete 'and smaller'
+-Line 94: add 'are able' instead 'may decide' - no that's a question of the study.
+-Line 96: for undertaking migratory movements
+-Line 100-101: change 'a model system for such questions' to 'of assessing salmonid migration to address such questions'.
+-Line 109: Add 'Body' size has been shown. 
+-Lines 109-110: Delete 'time and again'.
+-Line 118-119 - restructure this sentence to make it clearer.
+-Line 120 - you don't combine, you test and validate with empirical data.
+-Line 127: What about and back again?  I would imagine that you could test for both migratory time periods?
+-Line 129: All the same trout species?  If so, add the species name
+-Line 135: Add 'i.e. environmental factors' after 'or salinity'.
+
+Materials and Methods:
+-Line 138: Although you mention from 'natal to feeding habitat', this is the first time that 'age' is mentioned as a factor. Do you need to define 'juvenile' by age?
+-Line 145: First time you mention 'residential' you say 'lake-migratory' trout - that doesn't read well.
+-Line 160 - what are your units for pressure?
+-Line 163: How did you measure 'temperature dependent growth'?
+-Lines 178-179: Was the timing during the entire natal to feeding migration?  If so, provide timing.
+-Lines 190-191: This information should be moved above so as to answer my previous question for Lines 178-179.
+-Line 220: Is there any reason to assess for migratory period, i.e. from stream to lake vs. from lake back to stream?  This may give you more insights into mechanisms at play.
+
+Results:
+-Lines 226-227: Why categorize between 'small' and 'large'?  Why not just measure and make it a continuous variable?
+-Line 237: What is the 'condition 3'?
+-Lines 261-262:  So this is specific for juvenile fish.  Are there possibilities that these relationship do not hold true when assessing adults from feeding to natal/spawning habitat? 
+-Lines 263-264: Sentence needs editing.
+
+Discussion:
+-Line 268: I'm still unsure how you measured 'temperature dependent growth'? I saw nothing about measuring temperature in the methods section.
+-Lines 271-272: Is 'migratory habitat' explicit for migrating individuals or can some individuals be residents within migratory habitat? 
+-Lines 275-276: I am not following what you are trying to say here. I think you need to add '…do not wait…'
+-Line 294: Does body size compare favorably with 'boldness'?  That is, if you are larger than you are 'bolder', i.e. Chapman et al. 2011?
+-Lines 322-323: You mention that the migration distances are no more than a few km.  As such, it's difficult to make general statements regarding mechanisms at play for differential migration for across all taxa and systems.  When individuals have to travel great distances, your results may hold true, or not.
+-Line 325: This is the first place you say 'brown trout'.  Wasn't sure which species you were studying before this.
+-General statement: I think it's important that references provided are only for migrations via water and air (typically, easier environments to migrate through, taking less energy, then migrating terrestrially.  I am not convinced that these conclusions would hold true across all terrestrial migrations.  Therefore, the title and abstract should be edited to reflect these relationships are for aquatic migrations and not for migratory strategies, in general. 
+
+
+
+Conclusions:
+-Line 344: This is the only place in the entire manuscript that you mention that changing nutrient availability influences the trade-off between growth and predation. Therefore, intraspecific competition seems like it could be a factor in timing of migration.  Did you test how size might influence survivorship? Which 'group' does better; larger individuals that migrate first or smaller individuals that wait for additional resources to migrate? And are those later resources similar or different to those available to large individuals whom migrate first?
+-General comment: I'm also a bit concerned that growth was categorized into 'small' and 'large' only.  Why not use the actual sizes?  If you did, these needs to be clearer in the manuscript and describe what the threshold is between small and large. 
+
+List of Abbreviations:
+-Line 363:  What are cutoffs for 'small' and 'large'?
+-In general:  Although I appreciate the author's providing a list of abbreviations, it indicates that much of the narrative used these abbreviation and therefore made it difficult to read through the body of the manuscript.  My hope is that authors will make the results section, including Fig 3, easier to interpret.
+
+Figures/Tables:
+-Line 632: Equal to 5 and higher.  How did you measure 5 - what is it?
+-Figure 2: in A heading, describe what the Y and X axis are. Provide units for both axis, i.e. start and end of 'days'.  What are the P/G lowest and highest measurements?? In B, what is y-axis tell us??
+-Line 648: 'Number of runs' - Does this mean this was simulation modelling? 
+-Figure 3: What are the units? For example range of 0-3 of what?
+
+References:
+Jesmer et al. 2018. Is ungulate migration culturally transmitted? Evidence of social learning from translocated animals. Science, 361:1023-1025.
+
+
+Reviewer #2: Interesting study. I suggest in future you pursue more investigations of why non-breeding salmonids may migrate seasonally. Understanding the evolutionary drivers for this would be of general interest.
+
+Specific comments
+*       Line number #23 (large numerals): sentence beginning with "Condition-dependent…." Doesn't make sense as written. First "that" needs to be removed.
+*       #25: "they are not common" use "uncommon"
+*       #26: change "could" to "can"; this is a consistent issue throughout the manuscript. I suggest doing a global search and replace, checking every usage though for grammatical appropriateness
+*       #29: you really should be a bit more descriptive regarding the type of model you are presenting (e.g., there are simulation models, conceptual models, heuristic models, etc.)… perhaps you could insert the word "statistical" or something else that is more informative?
+*       #30: "would' change to "will";
+*       #31: change "habitat" to habitats (from now I'll indicate "change" with ">")
+*       #31: "between" > of
+*       #33: "changing" > variable
+*       #37: delete "the" in front of "empirical"
+*       #39: use "predation-to-growth"
+*       #39: in what type of season - need to be more specific? Clarify.
+*       #40: difference in what? I can guess, but best you explicitly state.
+*       #48: should say "body-size threshold", just to be extra clear
+*       #53: Migration is not always "spectacular", given its many different definitions. There are many daily and short-distance migrations that involve nothing more than riding a gas bubble up and down over a few hundred vertical meters. I would drop spectacular
+*       #53: its more than "hundreds of taxa" but also depends on what taxonomic level you mean. I suggest replacing this with "many different taxa" or similar
+*       #54: not all migrants are seasonal (seasons defined by Earth's rotation around the Sun); there are plenty of daily migrations.
+*       #55: change "fraction" to "proportion" - better word in my opinion, but of course choice is yours and Editor's
+*       #57: "early or late migration" - do you mean departure dates? What feature of migration do you mean? Please clarify.
+*       #57: change "might" to "may"
+*       #66: change "like" to "such as" [which is preferred for formal writing]
+*       #68: change "of" to "for"
+*       #69: use "conclusive…. for the occurrence of differential migration"
+*       #70: delete "still" [understood]
+*       #71: should be "e.g.,"
+*       #77: change "like" to "such as"
+*       #82: use "low-risk, low-benefit… high-resource, high-predation"
+*       #85: use "thus far"; "has not put much focus" change to "focused much"; that exactly does "their" refer to? The antecedent noun for this pronoun is not immediately or clearly identifiable
+*       #89: change "a tradeoff" to "tradeoffs" and "could" to "may"
+*       #90: replace "change" with "affect"; use "body sizes"
+*       #91: use "abilities" [predators (plural) have abilities (plural)]
+*       #91: Use "exceed" [plural form] because you mean more than one prey
+*       #92: use "risks"
+*       #93: use "predator-rich"
+*       #93: replace "seasonally" with "temporally", as the latter is more general
+*       #94: why "smaller and smaller"?
+*       #94: delete "decide"
+*       #103: change "far" to "vast"
+*       #104: use "natal to feeding environments"
+*       #105: "migratory environment" isn't an ideal word choice here, because migration is an act, so occurs between the two locational endpoints, not at the terminus of the act.
+*       #107: italicize "sensu", as its Latin
+*       #115: change "performed" to "undertaken"
+*       #115: use "influence" or similar
+*       #117: use "( … 59), leading to predictions… "
+*       #118: delete "The" in front of "study"
+*       #118: use "and having no physiological barrier"
+*       #120: "to explore various parameters" is not informative; need to reword
+*       #121: what type of model? Need an adjective to let us know
+*       #123: should be "natal area"
+*       #124: "seasonal temporal" - which one is it?
+*       #125: use "size-dependent"
+*       #125: "produces" is not the best word choice here, in my opinion: what about
+"estimates"?
+*       #127: use "… ratio of predation risk and… "
+*       #127: "between" should be "of"
+*       #129: use "our results"
+*       #131: so you think environmental cues such as temperature or day length have absolutely no influence? I imagine here you are only referring to your system? If no, then sentence should read "migratory pattern of… blah blah" so the reader knows you are not generalizing
+*       #132: change "in" to "during"
+*       #133: delete "could" [suggests implies the idea of possibility]
+*       #134: change "like" to "suggest"
+*       #134: use "should also consider biotic interactions such as predator and competition along with… "
+*       #138: suggest "investigated" rather than "studied"
+*       #138: You need to state here what species of trout you are working with. I assume brown, but you seemed to neglect to definitively state that somewhere early in the paper.
+*       #139: there should be a space after "large"
+*       #140: "littoral" is an adjective, and here it needs a noun to modify. How about adding "zone"? same with "pelagic"
+*       #141: use the adjectival form: "piscivorous"
+*       #141: use "large-bodied"
+*       #143: use "subjecting juvenile trout to… "
+*       #147: change "diverse" to "variable"
+*       #150: use the proper term and not abbreviation or symbol for FSTS; use "natal-stream"
+*       #153: change "time" to "timing"
+*       #156: change "in" to "into"
+*       #178: change "in" to "during"
+*       #202: use "well-oxygenated"
+*       #210: use "all sampled streams"
+*       #212: change "monitors" to "monitored" - in this section you need to use past tense
+*       #214: use "antennas were located directly… "
+*       #221: identify what R package/function you used
+*       #235: change "might" to "may"
+*       #237: delete "the" in front of "conditions"
+*       #238: "cloud" here is not a very helpful word choice, as this is an atypical usage of the word. Find synonym
+*       #253: change "covariables" to "covariates"
+*       #259: these R2 values are extremely low, despite your decent sample size, which suggests that the effect is only weak, and a partial determinant. Can you add some sentences addressing this issue?
+*       #261: "fishing data" - you mean your electofishing data, I assume? I would use the latter term.
+*       #261: change "indicates" to "shows" - you use indicate twice in same sentence, try to avoid this
+*       #263: use "This observation"
+*       #268: use "temperature-dependent"
+*       #269: what species? I don't think you ever told us???
+*       #269: change "outlined" to "developed"
+*       #275: surely it is "do not"?
+*       #279: use "high-growth"
+*       #282: change "The output" to "Model output"
+*       #287: change "for" to "due to"
+*       #290: use "similar to our model" or "consistent with our model…."
+*       #294: change "could" to "may"
+*       #295: use "migration to alternate environments"
+*       #296: change "happen" to "occur" and use "cost-to-benefit"
+*       #297: use "predation risk"
+*       #300: use "body size"
+*       #301: use "fast-growing"
+*       #303: use "rates" [individuals have rates"
+*       #304: use "neither our model analyses or empirical data"
+*       #306: change "as" to "to be"
+*       #307: use "such tradeoffs"
+*       #313: use "larger body size may"
+*       #316: change "could" to "may"; use "sufficiently influenced"
+*       #319: change "behind" to "of"
+*       #320: change "could" to "can"
+*       #321: use "among these"
+*       #324: suggest "energetic investment"
+*       #326: use "predator-poor"
+*       #327: change "generally" to "typically"
+*       #330: "poorer osmoregularion" - do you mean "poorer ability to osmoregulate"? clarify
+*       #337: suggest "to obtain a predator-size refuge"
+*       #339: I think this is an interesting observation and that more should be made of it - add a few sentences here about its novelty, and consider writing another paper focusing on this phenomenon
+*       #341: use "provides strong support"; delete "a" in front of "predation"
+*       #343: change "were" to "are"; use "with the empirically"
+*       #345: use "harder-to-predate"
+*       #348: good point!
+*       #350: change "could" to "may"; here and later in sentence e
+*       #353: change "could" to "may"
+*       #388: change "in" to "during"
+*       #634: use "size-dependent"
+*       Fig. 3: why not use a line of best fit through the points in the upper small panel?

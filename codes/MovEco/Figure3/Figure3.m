@@ -117,8 +117,10 @@ if ~isempty(migrationyes_small);
        countp = countp + 1;
        
 %===============test===========
-migrationyes(1,1);
-migrationyes_small(1,1);
+migrationyes(1,1)
+migrationyes_small(1,1)
+
+pause
 %=============================
 
 Glake = theta1(2,1)*B(migrationyes(1,1),4);
