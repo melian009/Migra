@@ -5,7 +5,8 @@ Basis for inferring the effect of differential migration on diversity and divers
 
 Folder codes contains the basic code for generating Figure 2 and Figure 3 -- 
 
-TODO 
+##TODO
+ 
 #Improve readme and soul of codes 
 #Implement in julia for larger datasets
 #Extend code to dendritic networks
