@@ -1,23 +1,22 @@
-%Philip & Melian=================================
-%@Eawag-KB Ontogenetic differential migration
-%2nd half 2018--1st 2019
-%=====github Migration repository================
+%Dermond & Melian=================================
+%@Ontogenetic differential migration
+%2nd half 2018 -- 1st half 2019
+%=====github Migra repository=====================
 
-Pmax =  10000;
-%Larger predation risk in the lake than in the stream
+Pmax =  10000;%Larger predation risk in the lake than in the stream
 alpha_s = 0.8;
 alpha_l = 4;
 
-%Data
+%input Data
 A = dlmread('Growth.csv');
 B = dlmread('SmoothedTemperatures.csv');%intraday
 M1 = dlmread('MigrationStream1.csv');
 M2 = dlmread('MigrationStream2.csv');
+
 %Fitting linear regression as 1st approx. G = b*T
 %low ration (<< resources)
 T = A(:,1);Gl = A(:,3);
 bGl = T\Gl;
-
 
 % Count how many data points we have
 m = length(A);
